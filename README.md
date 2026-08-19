@@ -20,7 +20,7 @@
 
 
 <p align="center">
-${\color{#D9E2FA}\textsf{Shira}}$ ${\color{#C3D3F3}\textsf{ou}}$ ${\color{#ABC1E9}\textsf{Ameriferry / Ferry}}$ ${\color{#95B2E0}\textsf{ ㅤ ; ㅤ }}$ ${\color{#82A3D7}\textsf{She}}$ ${\color{#6F95CE}\textsf{ / }}$ ${\color{#5C89C6}\textsf{any}}$
+${\color{#D9E2FA}\textsf{Shira}}$ ${\color{#C3D3F3}\textsf{ou}}$ ${\color{#ABC1E9}\textsf{Ameferry / Ferry}}$ ${\color{#95B2E0}\textsf{ ㅤ ; ㅤ }}$ ${\color{#82A3D7}\textsf{She}}$ ${\color{#6F95CE}\textsf{ / }}$ ${\color{#5C89C6}\textsf{any}}$
 
 
 <p align="center">
