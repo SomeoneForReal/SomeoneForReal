@@ -27,5 +27,16 @@ ${\color{#D9E2FA}\textsf{shira , }}$ ${\color{#C3D3F3}\textsf{ameferry / ferry ,
 ${\color{#F3EED8}\textsf{minor}}$ ${\color{#D4EEF8}\textsf{ㅤ;ㅤ}}$ ${\color{#B3D5F1}\textsf{isfj-t   , }}$ ${\color{#6A97C0}\textsf{introvert}}$
 
 
+
+
+
+<img align="left">
+<img src="https://github.com/user-attachments/assets/fcd29594-491f-43cb-9bc1-d568dfc9bf62">
+
+
+
+
+
+
 <p align="center">
 <img src="https://64.media.tumblr.com/6fb987e3ce13184dad3ee38081d84fcc/2560c9d1d2d874bf-5e/s1280x1920/befa2615e87942a7df7271b69deb30f1ac559a29.pnj">
