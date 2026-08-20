@@ -20,11 +20,11 @@
 
 
 <p align="center">
-${\color{#D9E2FA}\textsf{shira , }}$ ${\color{#C3D3F3}\textsf{ameferry / ferry , }}$ ${\color{#ABC1E9}\textsf{ou}}$ ${\color{#ABC1E9}\textsf{jacob}}$ ${\color{#95B2E0}\textsf{ ㅤ ; ㅤ }}$ ${\color{#82A3D7}\textsf{she}}$ ${\color{#6F95CE}\textsf{ / }}$ ${\color{#5C89C6}\textsf{any}}$
+${\color{#D9E2FA}\textsf{shira , }}$ ${\color{#C3D3F3}\textsf{ameferry / ferry , }}$ ${\color{#ABC1E9}\textsf{ou}}$ ${\color{#ABC1E9}\textsf{jacob}}$ ${\color{#95B2E0}\textsf{ ; }}$ ${\color{#82A3D7}\textsf{she}}$ ${\color{#6F95CE}\textsf{ / }}$ ${\color{#5C89C6}\textsf{any}}$
 
 
 <p align="center">
-${\color{#F3EED8}\textsf{minor}}$ ${\color{#D4EEF8}\textsf{ ㅤ ; ㅤ }}$ ${\color{#B3D5F1}\textsf{isfj-t   , }}$ ${\color{#6A97C0}\textsf{introvert}}$
+${\color{#F3EED8}\textsf{minor}}$ ${\color{#D4EEF8}\textsf{ㅤ;ㅤ}}$ ${\color{#B3D5F1}\textsf{isfj-t   , }}$ ${\color{#6A97C0}\textsf{introvert}}$
 
 
 <p align="center">
