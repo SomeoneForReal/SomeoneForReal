@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Hits](https://hits.sh/github.com/SomeoneForReal.svg?label=Don't+Give+Up+The+Ships!&color=495589&labelColor=7087BB)](https://hits.sh/github.com/SomeoneForReal/)
+[![Hits](https://hits.sh/github.com/SomeoneForReal.svg?label=Don't+Give+Up+The+Ship!&color=495589&labelColor=7087BB)](https://hits.sh/github.com/SomeoneForReal/)
 
 
 <div align="center">
@@ -25,6 +25,10 @@ ${\color{#D9E2FA}\textsf{shira , }}$ ${\color{#C3D3F3}\textsf{ameferry / ferry ,
 
 <p align="center">
 ${\color{#F3EED8}\textsf{minor}}$ ${\color{#D4EEF8}\textsf{ㅤ;ㅤ}}$ ${\color{#b3d5f1}\textsf{isfj-t   , }}$ ${\color{#6A97C0}\textsf{introvert}}$
+
+
+<p align="center">
+${\color{#CCDEE4}\textsf{idn}}$ ${\color{#85C4E4}\textsf{/}}$ ${\color{#488db4}\textsf{eng}}$ ${\color{#75E2E0}\textsf{ ; }}$ ${\color{#2CACAD}\textsf{kins}}$ <a href="https://gbp.miraheze.org/wiki/Jacob">𝐢𓈒</a> ${\color{#75E2E0}\textsf{. ✦ .}}$ <a href="https://gbp.miraheze.org/wiki/American_Ferryman">𝐢𝐢𓈒</a> ${\color{#75E2E0}\textsf{. ✦ .}}$ <a href="https://phighting.wiki/Shuriken">𝐢𝐢𝐢𓈒</a>
 
 
 
