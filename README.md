@@ -24,7 +24,7 @@ ${\color{#D9E2FA}\textsf{shira , }}$ ${\color{#C3D3F3}\textsf{ameferry / ferry ,
 
 
 <p align="center">
-${\color{#D9E2FA}\textsf{minor}}$ ${\color{#95B2E0}\textsf{ ㅤ ; ㅤ }}$ ${\color{#C3D3F3}\textsf{isfj-t}}$ ${\color{#ABC1E9}\textsf{introvert}}$
+${\color{#F3EED8}\textsf{minor}}$ ${\color{#D4EEF8}\textsf{ ㅤ ; ㅤ }}$ ${\color{#B3D5F1}\textsf{isfj-t   , }}$ ${\color{#6A97C0}\textsf{introvert}}$
 
 
 <p align="center">
