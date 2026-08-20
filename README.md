@@ -30,8 +30,8 @@ ${\color{#F3EED8}\textsf{minor}}$ ${\color{#D4EEF8}\textsf{ㅤ;ㅤ}}$ ${\color{#
 
 
 
-<div align="left" >
-<img src="https://github.com/user-attachments/assets/4db57c46-347e-43c7-a255-c2b613c3c359" width=400 >
+<div align="center" >
+<img src="https://files.catbox.moe/fotfj8.png" width=700 >
 
 
 
