@@ -30,14 +30,8 @@ ${\color{#F3EED8}\textsf{minor}}$ ${\color{#D4EEF8}\textsf{ㅤ;ㅤ}}$ ${\color{#
 
 
 
-<div align="left" width=400
-img src="https://github.com/user-attachments/assets/4db57c46-347e-43c7-a255-c2b613c3c359" >
-<div align="right">
-<table>
-  <tr>
-    <td>$\color{#e654bc}{{"I⠀ get⠀ messages⠀ from⠀ the⠀ stars!"}}$
-  </tr>
-</table>
+<div align="left" >
+<img src="https://github.com/user-attachments/assets/4db57c46-347e-43c7-a255-c2b613c3c359" width=400 >
 
 
 
