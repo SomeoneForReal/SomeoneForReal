@@ -24,14 +24,21 @@ ${\color{#D9E2FA}\textsf{shira , }}$ ${\color{#C3D3F3}\textsf{ameferry / ferry ,
 
 
 <p align="center">
-${\color{#F3EED8}\textsf{minor}}$ ${\color{#D4EEF8}\textsf{ㅤ;ㅤ}}$ ${\color{#B3D5F1}\textsf{isfj-t   , }}$ ${\color{#6A97C0}\textsf{introvert}}$
+${\color{#F3EED8}\textsf{minor}}$ ${\color{#D4EEF8}\textsf{ㅤ;ㅤ}}$ ${\color{#b3d5f1}\textsf{isfj-t   , }}$ ${\color{#6A97C0}\textsf{introvert}}$
 
 
 
 
 
-<img align="left">
-<img src="https://github.com/user-attachments/assets/fcd29594-491f-43cb-9bc1-d568dfc9bf62">
+<div align="left" width=400
+img src="https://github.com/user-attachments/assets/4db57c46-347e-43c7-a255-c2b613c3c359" >
+<div align="right">
+<table>
+  <tr>
+    <td>$\color{#e654bc}{{"I⠀ get⠀ messages⠀ from⠀ the⠀ stars!"}}$
+  </tr>
+</table>
+
 
 
 
