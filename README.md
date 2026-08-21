@@ -28,7 +28,7 @@ ${\color{#F3EED8}\textsf{minor}}$ ${\color{#D4EEF8}\textsf{ㅤ₊⊹ㅤ}}$ ${\co
 
 
 <p align="center">
-${\color{#CCDEE4}\textsf{idn}}$ ${\color{#85C4E4}\textsf{/}}$ ${\color{#488db4}\textsf{eng}}$ ${\color{#75E2E0}\textsf{ ✧ }}$ ${\color{#2CACAD}\textsf{kins}}$ <a href="https://gbp.miraheze.org/wiki/Jacob">𝐢𓈒</a> ${\color{#75E2E0}\textsf{. ✦ .}}$ <a href="https://gbp.miraheze.org/wiki/American_Ferryman">𝐢𝐢𓈒</a> ${\color{#75E2E0}\textsf{. ✦ .}}$ <a href="https://phighting.wiki/Shuriken">𝐢𝐢𝐢𓈒</a>
+${\color{#CCDEE4}\textsf{idn}}$ ${\color{#85C4E4}\textsf{ﾉ}}$ ${\color{#488db4}\textsf{eng}}$ ${\color{#75E2E0}\textsf{ ✧ }}$ ${\color{#2CACAD}\textsf{kins}}$ <a href="https://gbp.miraheze.org/wiki/Jacob">𝐢𓈒</a> ${\color{#75E2E0}\textsf{. ✦ .}}$ <a href="https://gbp.miraheze.org/wiki/American_Ferryman">𝐢𝐢𓈒</a> ${\color{#75E2E0}\textsf{. ✦ .}}$ <a href="https://phighting.wiki/Shuriken">𝐢𝐢𝐢𓈒</a>
 
 
 <p align="center">
