@@ -49,3 +49,8 @@
 
 <p align="center">
 <img src="https://64.media.tumblr.com/6fb987e3ce13184dad3ee38081d84fcc/2560c9d1d2d874bf-5e/s1280x1920/befa2615e87942a7df7271b69deb30f1ac559a29.pnj">
+
+
+
+<p align="left">
+$\color{#A6BCC9}{Made\ by}$ <a href="https://github.com/Heart0fGold">@Heart0fGold</a>. $\color{#A6BCC9}{"Why,\ hello.\ Yes,\ Karl\ was\ here.\ I\ helped\ Ferry\ get\ her\ stuff\ done,\ lmfao."}$ <img src="https://64.media.tumblr.com/tumblr_ltv0khNQXF1r2nnw5.gif">
